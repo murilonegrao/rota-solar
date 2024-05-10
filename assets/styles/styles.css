@@ -142,3 +142,7 @@ background-color: var(--bs-dark-blue);
 .bg-body-yellow {
   background-color: var(--bs-yellow);
 }
+
+.gallery-item {
+  cursor: pointer;
+}
